@@ -1,0 +1,39 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<script 
+  src="codebase/spreadsheet.php?load=js&sheet=1&parent=gridbox">
+</script>
+<link rel="stylesheet" href="codebase/dhtmlx_core.css">
+<link rel="stylesheet" href="codebase/dhtmlxspreadsheet.css">
+<link rel="stylesheet" href="codebase/dhtmlxgrid_wp.css">
+<script>
+dhx_sh = new dhtmlxSpreadSheet({
+    load: "codebase/php/data.php",
+    save: "codebase/php/data.php",
+    parent: "gridbox",
+    icons_path: "codebase/imgs/icons/",
+    autowidth: false,
+    autoheight: false
+});
+
+dhx_sh.load(1);
+</script>
+
+<script>
+	function load() {
+		dhx_sh.clearAll();
+		dhx_sh.load(document.getElementById("sheetid").value);
+	}
+</script>
+</head>
+
+<body>
+<h1>Cycle 3 Data Reduction Database (TEST)</h1>
+<div id="gridbox" style="width: 860px; height: 400px; background-color:white;"></div>
+<input type="input" id="sheetid" value="1" />
+<input type="button" value="EB View/SB View" onclick="load();" />
+
+</body>
+</html>

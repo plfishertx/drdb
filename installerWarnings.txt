@@ -1,0 +1,808 @@
+
+Warning: unlink(installer/installer.php): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/spreadsheet.sql): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/dhtmlxsh_export.js): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/dhtmlxgrid_borderselection.js): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/dhtmlx_core.js): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/dhtmlxsh_loader.js): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/dhtmlxsh_undo.js): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/php/auth.php): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/php/api.php): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/php/data.php): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/php/admin.php): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/php/db_postgre.php): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/php/tools.php): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/php/math.php): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/php/db_pdo.php): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/php/request.php): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/php/migrate.php): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/php/grid_cell_connector.php): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/php/db_mysqli.php): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/php/api_usage.php): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/php/db_sasql.php): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/php/db_oracle.php): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/php/colors_generator.php): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/php/db_common.php): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/php/mysql.php): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/php/db_mssql.php): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/php/admin_connector.php): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: rmdir(installer/src/codebase/php): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: unlink(installer/src/codebase/spreadsheet.php): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/dhtmlxsh_selection.js): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/loader.js): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/dhtmlxsh_css.js): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/dhtmlxsh_modal.js): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/dhtmlxspreadsheet.js): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/dhtmlxspreadsheet.css): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/dhtmlxsh_keys.js): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/dhtmlxsh_headedit.js): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/dhtmlxspreadsheet_dhx_web.css): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/dhtmlxsh_config.js): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/dhtmlx_core.css): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/dhtmlxsh_mathhint.js): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/skins/dhtmlxgrid_dhx_web.css): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/skins/dhtmlxtoolbar_dhx_web.css): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: rmdir(installer/src/codebase/skins): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: unlink(installer/src/codebase/dhtmlxsh_buffer.js): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/dhtmlxgrid_shcell.js): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/imgs/key.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/imgs/icons/undo_dis.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/imgs/icons/align_left.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/imgs/icons/redo.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/imgs/icons/bold.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/imgs/icons/iconedit.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/imgs/icons/align_center.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/imgs/icons/colors/color_00b050.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/imgs/icons/colors/color_ffc000.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/imgs/icons/colors/color_000000.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/imgs/icons/colors/color_ffff00.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/imgs/icons/colors/color_ffffff.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/imgs/icons/colors/color_92d050.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/imgs/icons/colors/color_00b0f0.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/imgs/icons/colors/color_0070c0.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/imgs/icons/colors/color_ff0000.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: rmdir(installer/src/codebase/imgs/icons/colors): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: unlink(installer/src/codebase/imgs/icons/italic.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/imgs/icons/align_right.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/imgs/icons/redo_dis.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/imgs/icons/export_pdf.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/imgs/icons/lock.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/imgs/icons/validate.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/imgs/icons/settings.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/imgs/icons/undo.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/imgs/icons/align_justify.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/imgs/icons/export_excel.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: rmdir(installer/src/codebase/imgs/icons): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: unlink(installer/src/codebase/imgs/sort_asc.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/imgs/key_invalid.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/imgs/sort_desc.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/imgs/dhxmenu_dhx_skyblue/dhxmenu_topsepbg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/imgs/dhxmenu_dhx_skyblue/dhtmlxmenu_upar.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/imgs/dhxmenu_dhx_skyblue/dhtmlxmenu_loader.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/imgs/dhxmenu_dhx_skyblue/dhtmlxmenu_chrd.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/imgs/dhxmenu_dhx_skyblue/dhxmenu_subsepbg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/imgs/dhxmenu_dhx_skyblue/dhtmlxmenu_subar.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/imgs/dhxmenu_dhx_skyblue/dhxmenu_topselbg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/imgs/dhxmenu_dhx_skyblue/dhxmenu_subselbg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/imgs/dhxmenu_dhx_skyblue/dhxmenu_bg_acccell.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: rmdir(installer/src/codebase/imgs/dhxmenu_dhx_skyblue): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: unlink(installer/src/codebase/imgs/sky_blue_sel.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/imgs/sky_blue_grid.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/imgs/settings.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/imgs/invalid.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/imgs/sky_blue_sel2.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/imgs/dhxtoolbar_dhx_web/dhxtoolbar_imgs.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: rmdir(installer/src/codebase/imgs/dhxtoolbar_dhx_web): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: unlink(installer/src/codebase/imgs/dhxmenu_dhx_web/dhxmenu_topsepbg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/imgs/dhxmenu_dhx_web/dhxmenu_chrd.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/imgs/dhxmenu_dhx_web/dhxmenu_loader.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/imgs/dhxmenu_dhx_web/dhxmenu_subsepbg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/imgs/dhxmenu_dhx_web/dhxmenu_topbg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/imgs/dhxmenu_dhx_web/dhxmenu_topselbg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/imgs/dhxmenu_dhx_web/dhxmenu_subar.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/imgs/dhxmenu_dhx_web/dhxmenu_upar.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/imgs/dhxmenu_dhx_web/dhxmenu_subselbg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: rmdir(installer/src/codebase/imgs/dhxmenu_dhx_web): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: unlink(installer/src/codebase/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_imgs.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: rmdir(installer/src/codebase/imgs/dhxtoolbar_dhx_skyblue): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: unlink(installer/src/codebase/imgs/sky_blue_grid_hor.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: rmdir(installer/src/codebase/imgs): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: unlink(installer/src/codebase/dhtmlxsh_context.js): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/codebase/dhtmlxgrid_reset.css): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: rmdir(installer/src/codebase): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: unlink(installer/src/samples/01_simple_init.html): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/samples/07_math.html): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/samples/04_usage_key_full_access.html): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/samples/api_description.txt): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/samples/08_two_sheets.html): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/samples/05_usage_key_read_only.html): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/samples/06_skin_usage.html): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/samples/03_loading.html): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/samples/02_init_in_cont.html): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: rmdir(installer/src/samples): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: unlink(installer/src/skins/dhx_skyblue/clouds/dhtmlx_custom.css): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/clouds/imgs/grid/sky_blue_sel18.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/clouds/imgs/grid/sky_blue_sel.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/clouds/imgs/grid/sky_blue_grid.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/clouds/imgs/grid/sky_blue_sel2.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/clouds/imgs/grid/sky_blue_grid_hor.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: rmdir(installer/src/skins/dhx_skyblue/clouds/imgs/grid): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: unlink(installer/src/skins/dhx_skyblue/clouds/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_sep_bg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/clouds/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_bg_layoutcell.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/clouds/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_bg_pressed.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/clouds/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_subbg_sel.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/clouds/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_bg_acccell.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/clouds/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_subbg_over2.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/clouds/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_bg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/clouds/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_bg_over.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/clouds/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_subbg_sel2.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/clouds/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_subbg_over.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: rmdir(installer/src/skins/dhx_skyblue/clouds/imgs/dhxtoolbar_dhx_skyblue): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: rmdir(installer/src/skins/dhx_skyblue/clouds/imgs): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: rmdir(installer/src/skins/dhx_skyblue/clouds): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: unlink(installer/src/skins/dhx_skyblue/rose/dhtmlx_custom.css): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/rose/imgs/grid/sky_blue_sel18.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/rose/imgs/grid/sky_blue_sel.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/rose/imgs/grid/sky_blue_grid.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/rose/imgs/grid/sky_blue_sel2.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/rose/imgs/grid/sky_blue_grid_hor.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: rmdir(installer/src/skins/dhx_skyblue/rose/imgs/grid): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: unlink(installer/src/skins/dhx_skyblue/rose/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_sep_bg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/rose/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_bg_layoutcell.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/rose/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_bg_pressed.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/rose/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_subbg_sel.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/rose/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_bg_acccell.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/rose/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_subbg_over2.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/rose/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_bg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/rose/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_bg_over.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/rose/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_subbg_sel2.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/rose/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_subbg_over.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: rmdir(installer/src/skins/dhx_skyblue/rose/imgs/dhxtoolbar_dhx_skyblue): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: rmdir(installer/src/skins/dhx_skyblue/rose/imgs): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: rmdir(installer/src/skins/dhx_skyblue/rose): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: unlink(installer/src/skins/dhx_skyblue/autumn/dhtmlx_custom.css): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/autumn/imgs/grid/sky_blue_sel18.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/autumn/imgs/grid/sky_blue_sel.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/autumn/imgs/grid/sky_blue_grid.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/autumn/imgs/grid/sky_blue_sel2.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/autumn/imgs/grid/sky_blue_grid_hor.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: rmdir(installer/src/skins/dhx_skyblue/autumn/imgs/grid): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: unlink(installer/src/skins/dhx_skyblue/autumn/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_sep_bg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/autumn/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_bg_layoutcell.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/autumn/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_bg_pressed.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/autumn/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_subbg_sel.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/autumn/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_btnarrow_dis.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/autumn/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_bg_acccell.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/autumn/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_subbg_over2.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/autumn/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_bg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/autumn/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_bg_over.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/autumn/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_subbg_sel2.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/autumn/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_subbg_over.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/autumn/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_btnarrow.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: rmdir(installer/src/skins/dhx_skyblue/autumn/imgs/dhxtoolbar_dhx_skyblue): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: rmdir(installer/src/skins/dhx_skyblue/autumn/imgs): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: rmdir(installer/src/skins/dhx_skyblue/autumn): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: unlink(installer/src/skins/dhx_skyblue/yellowsand/dhtmlx_custom.css): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/yellowsand/imgs/grid/sky_blue_sel18.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/yellowsand/imgs/grid/sky_blue_sel.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/yellowsand/imgs/grid/sky_blue_grid.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/yellowsand/imgs/grid/sky_blue_sel2.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/yellowsand/imgs/grid/sky_blue_grid_hor.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: rmdir(installer/src/skins/dhx_skyblue/yellowsand/imgs/grid): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: unlink(installer/src/skins/dhx_skyblue/yellowsand/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_sep_bg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/yellowsand/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_bg_layoutcell.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/yellowsand/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_bg_pressed.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/yellowsand/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_subbg_sel.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/yellowsand/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_bg_acccell.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/yellowsand/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_subbg_over2.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/yellowsand/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_bg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/yellowsand/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_bg_over.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/yellowsand/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_subbg_sel2.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/yellowsand/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_subbg_over.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: rmdir(installer/src/skins/dhx_skyblue/yellowsand/imgs/dhxtoolbar_dhx_skyblue): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: rmdir(installer/src/skins/dhx_skyblue/yellowsand/imgs): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: rmdir(installer/src/skins/dhx_skyblue/yellowsand): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: unlink(installer/src/skins/dhx_skyblue/sea/dhtmlx_custom.css): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/sea/imgs/grid/sky_blue_sel18.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/sea/imgs/grid/sky_blue_sel.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/sea/imgs/grid/sky_blue_grid.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/sea/imgs/grid/sky_blue_sel2.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/sea/imgs/grid/sky_blue_grid_hor.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: rmdir(installer/src/skins/dhx_skyblue/sea/imgs/grid): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: unlink(installer/src/skins/dhx_skyblue/sea/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_sep_bg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/sea/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_bg_layoutcell.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/sea/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_bg_pressed.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/sea/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_subbg_sel.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/sea/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_bg_acccell.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/sea/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_subbg_over2.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/sea/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_bg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/sea/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_bg_over.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/sea/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_subbg_sel2.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/sea/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_subbg_over.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: rmdir(installer/src/skins/dhx_skyblue/sea/imgs/dhxtoolbar_dhx_skyblue): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: rmdir(installer/src/skins/dhx_skyblue/sea/imgs): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: rmdir(installer/src/skins/dhx_skyblue/sea): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: unlink(installer/src/skins/dhx_skyblue/sky/dhtmlx_custom.css): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/sky/imgs/grid/sky_blue_sel18.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/sky/imgs/grid/sky_blue_sel.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/sky/imgs/grid/sky_blue_grid.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/sky/imgs/grid/sky_blue_sel2.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/sky/imgs/grid/sky_blue_grid_hor.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: rmdir(installer/src/skins/dhx_skyblue/sky/imgs/grid): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: unlink(installer/src/skins/dhx_skyblue/sky/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_sep_bg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/sky/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_bg_layoutcell.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/sky/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_bg_pressed.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/sky/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_subbg_sel.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/sky/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_bg_acccell.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/sky/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_subbg_over2.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/sky/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_bg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/sky/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_bg_over.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/sky/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_subbg_sel2.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/sky/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_subbg_over.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: rmdir(installer/src/skins/dhx_skyblue/sky/imgs/dhxtoolbar_dhx_skyblue): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: rmdir(installer/src/skins/dhx_skyblue/sky/imgs): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: rmdir(installer/src/skins/dhx_skyblue/sky): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: unlink(installer/src/skins/dhx_skyblue/salad/dhtmlx_custom.css): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/salad/imgs/grid/sky_blue_sel18.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/salad/imgs/grid/sky_blue_sel.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/salad/imgs/grid/sky_blue_grid.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/salad/imgs/grid/sky_blue_sel2.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/salad/imgs/grid/sky_blue_grid_hor.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: rmdir(installer/src/skins/dhx_skyblue/salad/imgs/grid): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: unlink(installer/src/skins/dhx_skyblue/salad/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_sep_bg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/salad/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_bg_layoutcell.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/salad/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_bg_pressed.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/salad/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_subbg_sel.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/salad/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_bg_acccell.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/salad/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_subbg_over2.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/salad/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_bg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/salad/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_bg_over.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/salad/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_subbg_sel2.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_skyblue/salad/imgs/dhxtoolbar_dhx_skyblue/dhxtoolbar_subbg_over.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: rmdir(installer/src/skins/dhx_skyblue/salad/imgs/dhxtoolbar_dhx_skyblue): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: rmdir(installer/src/skins/dhx_skyblue/salad/imgs): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: rmdir(installer/src/skins/dhx_skyblue/salad): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: rmdir(installer/src/skins/dhx_skyblue): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: unlink(installer/src/skins/dhx_web/rose/dhtmlx_custom.css): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_web/rose/imgs/dhxgrid_dhx_web/separator.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: rmdir(installer/src/skins/dhx_web/rose/imgs/dhxgrid_dhx_web): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: unlink(installer/src/skins/dhx_web/rose/imgs/dhxtoolbar_dhx_web/dhxtoolbar_topbg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_web/rose/imgs/dhxtoolbar_dhx_web/dhxtoolbar_subselbg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_web/rose/imgs/dhxtoolbar_dhx_web/dhxtoolbar_topsepbg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_web/rose/imgs/dhxtoolbar_dhx_web/dhxtoolbar_sliderbg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_web/rose/imgs/dhxtoolbar_dhx_web/dhxtoolbar_sliderpen.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_web/rose/imgs/dhxtoolbar_dhx_web/dhxtoolbar_subsepbg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_web/rose/imgs/dhxtoolbar_dhx_web/dhxtoolbar_topselbg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_web/rose/imgs/dhxtoolbar_dhx_web/dhxtoolbar_btnarrow.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: rmdir(installer/src/skins/dhx_web/rose/imgs/dhxtoolbar_dhx_web): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: rmdir(installer/src/skins/dhx_web/rose/imgs): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: rmdir(installer/src/skins/dhx_web/rose): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: unlink(installer/src/skins/dhx_web/blue/dhtmlx_custom.css): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_web/blue/imgs/dhxgrid_dhx_web/separator.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: rmdir(installer/src/skins/dhx_web/blue/imgs/dhxgrid_dhx_web): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: unlink(installer/src/skins/dhx_web/blue/imgs/dhxtoolbar_dhx_web/dhxtoolbar_topbg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_web/blue/imgs/dhxtoolbar_dhx_web/dhxtoolbar_subselbg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_web/blue/imgs/dhxtoolbar_dhx_web/dhxtoolbar_topsepbg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_web/blue/imgs/dhxtoolbar_dhx_web/dhxtoolbar_sliderbg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_web/blue/imgs/dhxtoolbar_dhx_web/dhxtoolbar_sliderpen.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_web/blue/imgs/dhxtoolbar_dhx_web/dhxtoolbar_subsepbg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_web/blue/imgs/dhxtoolbar_dhx_web/dhxtoolbar_topselbg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_web/blue/imgs/dhxtoolbar_dhx_web/dhxtoolbar_btnarrow.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: rmdir(installer/src/skins/dhx_web/blue/imgs/dhxtoolbar_dhx_web): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: rmdir(installer/src/skins/dhx_web/blue/imgs): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: rmdir(installer/src/skins/dhx_web/blue): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: unlink(installer/src/skins/dhx_web/grass/dhtmlx_custom.css): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_web/grass/imgs/dhxgrid_dhx_web/separator.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: rmdir(installer/src/skins/dhx_web/grass/imgs/dhxgrid_dhx_web): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: unlink(installer/src/skins/dhx_web/grass/imgs/dhxtoolbar_dhx_web/dhxtoolbar_topbg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_web/grass/imgs/dhxtoolbar_dhx_web/dhxtoolbar_subselbg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_web/grass/imgs/dhxtoolbar_dhx_web/dhxtoolbar_topsepbg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_web/grass/imgs/dhxtoolbar_dhx_web/dhxtoolbar_sliderbg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_web/grass/imgs/dhxtoolbar_dhx_web/dhxtoolbar_sliderpen.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_web/grass/imgs/dhxtoolbar_dhx_web/dhxtoolbar_subsepbg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_web/grass/imgs/dhxtoolbar_dhx_web/dhxtoolbar_topselbg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_web/grass/imgs/dhxtoolbar_dhx_web/dhxtoolbar_btnarrow.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: rmdir(installer/src/skins/dhx_web/grass/imgs/dhxtoolbar_dhx_web): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: rmdir(installer/src/skins/dhx_web/grass/imgs): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: rmdir(installer/src/skins/dhx_web/grass): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: unlink(installer/src/skins/dhx_web/violet/dhtmlx_custom.css): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_web/violet/imgs/dhxgrid_dhx_web/separator.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: rmdir(installer/src/skins/dhx_web/violet/imgs/dhxgrid_dhx_web): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: unlink(installer/src/skins/dhx_web/violet/imgs/dhxtoolbar_dhx_web/dhxtoolbar_topbg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_web/violet/imgs/dhxtoolbar_dhx_web/dhxtoolbar_subselbg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_web/violet/imgs/dhxtoolbar_dhx_web/dhxtoolbar_topsepbg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_web/violet/imgs/dhxtoolbar_dhx_web/dhxtoolbar_sliderbg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_web/violet/imgs/dhxtoolbar_dhx_web/dhxtoolbar_sliderpen.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_web/violet/imgs/dhxtoolbar_dhx_web/dhxtoolbar_subsepbg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_web/violet/imgs/dhxtoolbar_dhx_web/dhxtoolbar_topselbg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_web/violet/imgs/dhxtoolbar_dhx_web/dhxtoolbar_btnarrow.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: rmdir(installer/src/skins/dhx_web/violet/imgs/dhxtoolbar_dhx_web): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: rmdir(installer/src/skins/dhx_web/violet/imgs): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: rmdir(installer/src/skins/dhx_web/violet): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: unlink(installer/src/skins/dhx_web/deepblue/dhtmlx_custom.css): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_web/deepblue/imgs/dhxgrid_dhx_web/separator.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: rmdir(installer/src/skins/dhx_web/deepblue/imgs/dhxgrid_dhx_web): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: unlink(installer/src/skins/dhx_web/deepblue/imgs/dhxtoolbar_dhx_web/dhxtoolbar_topbg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_web/deepblue/imgs/dhxtoolbar_dhx_web/dhxtoolbar_subselbg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_web/deepblue/imgs/dhxtoolbar_dhx_web/dhxtoolbar_topsepbg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_web/deepblue/imgs/dhxtoolbar_dhx_web/dhxtoolbar_sliderbg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_web/deepblue/imgs/dhxtoolbar_dhx_web/dhxtoolbar_sliderpen.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_web/deepblue/imgs/dhxtoolbar_dhx_web/dhxtoolbar_subsepbg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_web/deepblue/imgs/dhxtoolbar_dhx_web/dhxtoolbar_topselbg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_web/deepblue/imgs/dhxtoolbar_dhx_web/dhxtoolbar_btnarrow.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: rmdir(installer/src/skins/dhx_web/deepblue/imgs/dhxtoolbar_dhx_web): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: rmdir(installer/src/skins/dhx_web/deepblue/imgs): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: rmdir(installer/src/skins/dhx_web/deepblue): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: unlink(installer/src/skins/dhx_web/ocean/dhtmlx_custom.css): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_web/ocean/imgs/dhxgrid_dhx_web/separator.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: rmdir(installer/src/skins/dhx_web/ocean/imgs/dhxgrid_dhx_web): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: unlink(installer/src/skins/dhx_web/ocean/imgs/dhxtoolbar_dhx_web/dhxtoolbar_topbg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_web/ocean/imgs/dhxtoolbar_dhx_web/dhxtoolbar_subselbg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_web/ocean/imgs/dhxtoolbar_dhx_web/dhxtoolbar_topsepbg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_web/ocean/imgs/dhxtoolbar_dhx_web/dhxtoolbar_sliderbg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_web/ocean/imgs/dhxtoolbar_dhx_web/dhxtoolbar_sliderpen.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_web/ocean/imgs/dhxtoolbar_dhx_web/dhxtoolbar_subsepbg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_web/ocean/imgs/dhxtoolbar_dhx_web/dhxtoolbar_topselbg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_web/ocean/imgs/dhxtoolbar_dhx_web/dhxtoolbar_btnarrow.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: rmdir(installer/src/skins/dhx_web/ocean/imgs/dhxtoolbar_dhx_web): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: rmdir(installer/src/skins/dhx_web/ocean/imgs): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: rmdir(installer/src/skins/dhx_web/ocean): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: unlink(installer/src/skins/dhx_web/oak/dhtmlx_custom.css): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_web/oak/imgs/dhxgrid_dhx_web/separator.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: rmdir(installer/src/skins/dhx_web/oak/imgs/dhxgrid_dhx_web): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: unlink(installer/src/skins/dhx_web/oak/imgs/dhxtoolbar_dhx_web/dhxtoolbar_topbg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_web/oak/imgs/dhxtoolbar_dhx_web/dhxtoolbar_subselbg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_web/oak/imgs/dhxtoolbar_dhx_web/dhxtoolbar_topsepbg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_web/oak/imgs/dhxtoolbar_dhx_web/dhxtoolbar_sliderbg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_web/oak/imgs/dhxtoolbar_dhx_web/dhxtoolbar_sliderpen.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_web/oak/imgs/dhxtoolbar_dhx_web/dhxtoolbar_subsepbg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_web/oak/imgs/dhxtoolbar_dhx_web/dhxtoolbar_topselbg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_web/oak/imgs/dhxtoolbar_dhx_web/dhxtoolbar_btnarrow.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: rmdir(installer/src/skins/dhx_web/oak/imgs/dhxtoolbar_dhx_web): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: rmdir(installer/src/skins/dhx_web/oak/imgs): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: rmdir(installer/src/skins/dhx_web/oak): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: unlink(installer/src/skins/dhx_web/brown/dhtmlx_custom.css): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_web/brown/imgs/dhxgrid_dhx_web/separator.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: rmdir(installer/src/skins/dhx_web/brown/imgs/dhxgrid_dhx_web): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: unlink(installer/src/skins/dhx_web/brown/imgs/dhxtoolbar_dhx_web/dhxtoolbar_topbg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_web/brown/imgs/dhxtoolbar_dhx_web/dhxtoolbar_subselbg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_web/brown/imgs/dhxtoolbar_dhx_web/dhxtoolbar_topsepbg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_web/brown/imgs/dhxtoolbar_dhx_web/dhxtoolbar_sliderbg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_web/brown/imgs/dhxtoolbar_dhx_web/dhxtoolbar_sliderpen.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_web/brown/imgs/dhxtoolbar_dhx_web/dhxtoolbar_subsepbg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_web/brown/imgs/dhxtoolbar_dhx_web/dhxtoolbar_topselbg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_web/brown/imgs/dhxtoolbar_dhx_web/dhxtoolbar_btnarrow.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: rmdir(installer/src/skins/dhx_web/brown/imgs/dhxtoolbar_dhx_web): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: rmdir(installer/src/skins/dhx_web/brown/imgs): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: rmdir(installer/src/skins/dhx_web/brown): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: unlink(installer/src/skins/dhx_web/summer/dhtmlx_custom.css): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_web/summer/imgs/dhxgrid_dhx_web/separator.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: rmdir(installer/src/skins/dhx_web/summer/imgs/dhxgrid_dhx_web): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: unlink(installer/src/skins/dhx_web/summer/imgs/dhxtoolbar_dhx_web/dhxtoolbar_topbg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_web/summer/imgs/dhxtoolbar_dhx_web/dhxtoolbar_subselbg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_web/summer/imgs/dhxtoolbar_dhx_web/dhxtoolbar_topsepbg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_web/summer/imgs/dhxtoolbar_dhx_web/dhxtoolbar_sliderbg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_web/summer/imgs/dhxtoolbar_dhx_web/dhxtoolbar_sliderpen.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_web/summer/imgs/dhxtoolbar_dhx_web/dhxtoolbar_subsepbg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_web/summer/imgs/dhxtoolbar_dhx_web/dhxtoolbar_topselbg.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/src/skins/dhx_web/summer/imgs/dhxtoolbar_dhx_web/dhxtoolbar_btnarrow.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: rmdir(installer/src/skins/dhx_web/summer/imgs/dhxtoolbar_dhx_web): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: rmdir(installer/src/skins/dhx_web/summer/imgs): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: rmdir(installer/src/skins/dhx_web/summer): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: rmdir(installer/src/skins/dhx_web): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: rmdir(installer/src/skins): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: rmdir(installer/src): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: unlink(installer/install.css): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/imgs/header_bg_right.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/imgs/update_button.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/imgs/save_button.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/imgs/err.gif): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/imgs/install_button.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/imgs/header_bg.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: unlink(installer/imgs/header_bg_left.png): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 234
+
+Warning: rmdir(installer/imgs): Permission denied in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: rmdir(installer): Directory not empty in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 240
+
+Warning: Cannot modify header information - headers already sent by (output started at /opt/lampp/htdocs/preim_auto/installer/installer.php:234) in /opt/lampp/htdocs/preim_auto/installer/installer.php on line 248

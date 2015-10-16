@@ -1,0 +1,63 @@
+<html>
+<head>
+<title>Cycle 2 Data Reduction Status</title>
+<script src="jquery-1.11.3.js"></script>
+<script src="test.js"></script>
+<link rel="stylesheet" href="cycle2redstat.css">
+</head>
+
+<body>
+<?php
+require_once 'pfisher.conf';
+echo $db_hn;
+?>
+
+<h1>Test Page</h1>
+
+<table border="2">
+<caption>Cycle 2 Data Reduction Status</caption>
+<tr>
+   <th>Project Code</th>
+   <th>GOUS ID</th>
+   <th>MOUS ID</th>
+   <th>SB Name</th>
+   <th># EBs</th>
+   <th>Executive</th>
+   <th>ARC for Support</th>
+   <th>Calibration Type</th>
+   <th>Calibration Assignee</th>
+   <th>Calibration ARC</th>
+   <th>Imaging Assignee</th>
+   <th>Imaging ARC</th>
+</tr>
+<tr>
+   <td>2013.1.00000</td>
+   <td>uid://A001/X000/X2b0</td>
+   <td>uid://A001/X000/X2b1</td>
+   <td>Mun</td>
+   <td>3498</td>
+   <td>NA</td>
+   <td>NA</td>
+   <td>Pipeline</td>
+   <td>JAO_Pipe</td>
+   <td>JAO</td>
+   <td id='cell2edit'></td>
+   <td>NA</td>
+</tr>
+<tr>
+   <td>2013.1.66666</td>
+   <td>uid://A001/X000/X15</td>
+   <td>uid://A001/X000/X16</td>
+   <td>Minmas</td>
+   <td>1</td>
+   <td>NA</td>
+   <td>NA</td>
+   <td>Manual</td>
+   <td>Jebediah Kerman</td>
+   <td>NA</td>
+   <td>Werhner Von Kerman</td>
+   <td>NA</td>
+</tr>
+</table>
+</body>
+</html>

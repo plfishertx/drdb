@@ -1,0 +1,38 @@
+Field in SB view	Manually assigned
+Project code
+GOUS
+MOUS
+SB Name
+#EBs
+Executive
+ARC for Support		
+Calibration Type
+Calibration Assignee	* (for manual only)
+Calibration ARC         * (for manual only)
+Imaging Assignee	*
+Imaging ARC		*
+Date OUS completed	
+Date assigned for calibration * (for manual only)
+Date assigned for imaging *
+Date QA2 status determined *
+QA2 status	*
+Date of APO/helpdesk-cv ticket creation *
+Date of PI letter *
+Days between completed and assigned * (computed)
+Days between assigned and QA2 * (computed)
+Days between QA2 and delivered * (computed)
+Days between assigned and delivered * (computed)
+Days between completed and delivered * (computed)
+Days assigned to data reducer * (computed)
+notes *
+Days since imaging assignment and QA2 *
+QA2 FAIL dates *
+QA2 reducer *
+QA2 FAIL: additional executions requested *
+Days since QA2 evaluated *
+Correlator mode *
+Mosaic ptgs *
+SNR continuum *
+SNR Line *
+Images Spectral Resolution *
+Other *

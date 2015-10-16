@@ -1,0 +1,11 @@
+
+*Online spreadsheet requirements*
+
+ 1. GUI shall allow editing of DB data not derived from ALMA DB.
+ 2. GUI shall protect against editing data derived from ALMA DB.
+ 3. GUI shall allow editing by multiple users simultaneously or shall
+    protect against simultaneous user conflict.
+ 4. GUI shall display updated table content immediately after each edit.
+ 5. GUI shall allow for data searches using browser or some other means.
+ 6. GUI shall allow for sorting of data by columns.
+
