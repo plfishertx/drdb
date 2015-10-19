@@ -17,7 +17,7 @@ echo "</pre>";
 
 
 echo "<br>";
-/*
+/*comments started here */
 $r = $sh->setValue("B1", 1);
 $r = $sh->setValue("B2", "=B1+1");
 $r = $sh->setValue("B3", "=B2+1");
@@ -29,6 +29,6 @@ echo $sh->getValue("B2").": ".$sh->getCalculatedValue("B2")."<br>";
 echo $sh->getValue("B3").": ".$sh->getCalculatedValue("B3")."<br>";
 echo $sh->getValue("B4").": ".$sh->getCalculatedValue("B4")."<br>";
 echo $sh->getValue("B5").": ".$sh->getCalculatedValue("B5")."<br>";
-*/
+
 
 ?>
